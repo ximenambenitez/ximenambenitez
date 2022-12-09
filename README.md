@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ximenambenitez
 - 👀 I’m interested in Front End Development & Psychology
-- 🌱 I’m currently learning HTML,CSS,Javascript
+- 🌱 I’m currently learning Javascript & expanding my HTML and CSS Knowledge
 - 💞️ I’m looking to collaborate on website creation
 - 📫 How to reach me: DMs and Emails
 
